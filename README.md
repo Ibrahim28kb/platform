@@ -1,2 +1,2 @@
-# platform
-platform control panel
+# Platform
+Platform control panel
